@@ -83,7 +83,7 @@ Use `which uv` e `pwd` para encontrar os caminhos corretos.
 Após configurar, inicie:
 
 ```bash
-goose session --with-extension mcp-cep
+goose 
 ```
 
 E envie comandos como:
