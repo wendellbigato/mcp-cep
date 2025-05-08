@@ -1,0 +1,18 @@
+[project]
+name = "mcp-cep"
+version = "0.1.0"
+description = "Servidor MCP para consulta de CEPs via ViaCEP"
+readme = "README.md"
+requires-python = ">=3.11"
+
+authors = [
+    { name = "Wendell Barreto", email = "wendell@oori.me" }
+]
+
+
+license = { text = "MIT" }  # ou "Apache-2.0", "BSD-3-Clause", etc.
+
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.7.1",
+]
