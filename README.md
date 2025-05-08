@@ -1,6 +1,3 @@
-## ✅ `README.md`
-
-````markdown
 # MCP-CEP
 
 Servidor MCP para consulta de CEPs usando a API pública do [ViaCEP](https://viacep.com.br).  
