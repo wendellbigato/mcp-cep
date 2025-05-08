@@ -5,12 +5,20 @@ Compatível com [Goose](https://block.github.io/goose/) como extensão de linha 
 
 ---
 
+### 👤 Autor
+
+**Wendell Barreto**  
+[https://github.com/wendellbigato](https://github.com/wendellbigato)  
+
+
+---
+
 ## 🚀 Instalação
 
 ### 1. Clone este repositório
 
 ```bash
-git clone https://github.com/seu-usuario/mcp-cep.git
+git clone https://github.com/wendellbigato/mcp-cep.git
 cd mcp-cep
 ````
 
